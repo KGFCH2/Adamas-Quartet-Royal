@@ -1,0 +1,78 @@
+{
+    "name": "Adamas Quartet Royal",
+    "short_name": "AQR_Favicon",
+    "description": "Premium 2026 Elite Stay platform by Adamas University",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#01040a",
+    "theme_color": "#FF9933",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "216x216",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "2048x2048",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "4096x4096",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "2048x2048",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "4096x4096",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/AQR_Favicon.png",
+            "sizes": "2048x2048",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
