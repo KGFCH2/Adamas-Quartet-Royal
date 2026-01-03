@@ -1,4 +1,4 @@
-# Technical Instructions & System Architecture
+# 📚 Technical Instructions & System Architecture
 
 ## 📂 File Functionality Registry
 
@@ -18,18 +18,26 @@
 ### 🖼 Components (The UI System)
 - 🧭 `components/Navbar.tsx`: Feature-rich navigation with an integrated Profile Editor and a base64 image-cropping system.
 - 🎫 `components/BookingTicketTemplate.tsx`: A pixel-perfect 794px-wide ticket layout for high-fidelity PDF exports.
-- 🎨 `components/ui/`: A comprehensive library including `BookingLoader`, `DocumentLoader`, and `Button` with tricolor variants.
+- 🖱️ `components/CustomCursor.tsx`: Custom cursor component for enhanced UX.
+- 🦶 `components/Footer.tsx`: Footer component for the application.
+- 🎬 `components/WelcomeLoader.tsx`: Welcome loader with multilingual phrases.
+- 🎨 `components/ui/`: A comprehensive library including `BookingLoader`, `Button`, `DocumentLoader`, `HotelLoader`, and `SectionLoader` with tricolor variants.
 
 ### 📄 Pages
 - 🏠 `pages/Home.tsx`: Cinematic landing page with founders' spotlights and the interactive Leaflet Partner Map.
-- 🏨 `pages/Rooms.tsx`: Marketplace featuring "Lengthy Cards" and a screen-optimized 90vh vertical booking modal.
+- 📜 `pages/Legal.tsx`: Legal information page.
 - 📋 `pages/MyBookings.tsx`: Compact history registry for voucher retrieval and stay management.
+- 🔒 `pages/PrivacyPolicy.tsx`: Privacy policy page.
+- 💰 `pages/RefundPolicy.tsx`: Refund policy page.
+- 🏨 `pages/Rooms.tsx`: Marketplace featuring "Lengthy Cards" and a screen-optimized 90vh vertical booking modal.
+- 📋 `pages/TermsOfService.tsx`: Terms of service page.
 
 ### 📋 Additional Files
 - 📜 `LICENSE`: MIT License for the Adamas Quartet Royal project
 - 📖 `README.md`: Project overview, features, and setup instructions
 - 📚 `INSTRUCTIONS.md`: Technical documentation and system architecture
 - 📋 `metadata.json`: Project metadata and configuration
+- 📱 `public/manifest.json`: PWA manifest for installable app.
 - 📋 `tsconfig.json`: TypeScript compiler configuration
 - ⚙️ `vite.config.ts`: Vite build configuration with React plugin
 

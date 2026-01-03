@@ -18,7 +18,7 @@ Developed by the **AU4 Founding Council**:
 - 👤 **Sovereign Profile**: Customizable user profiles with cropping-enabled avatar uploads and booking history registry.
 - 📱 **Responsive Architecture**: Optimized for 100% zoom levels on desktop with compact, high-efficiency layouts.
 
-## 🛠 Tech Stack
+## ⚒️ Tech Stack
 - ⚛️ **Framework**: React 19 (Strict Mode)
 - 🎨 **Styling**: Tailwind CSS (Custom Saffron/IndiaGreen/Chakra palette)
 - 🎭 **Animations**: Framer Motion (Cinematic transitions and gestures)
@@ -66,18 +66,18 @@ Developed by the **AU4 Founding Council**:
 - ✅ **Production Ready**: Fully optimized build with CSS and JavaScript minification
 - ✅ **Type Safe**: Full TypeScript support with strict mode enabled
 
-## � License
+## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 This is a student collaboration project by the AU4 Founding Council. For contributions or questions, please contact the development team.
 
-## �🚀 Getting Started
+## 🚀 Getting Started
 1. 🔍 **Explore**: Navigate the home page to view our "Sovereign Footprint" on the interactive map.
 2. 🏠 **Select**: Visit the "Rooms" section to view detailed galleries of our 10 unique properties.
 3. 📝 **Book**: Select your dates, guest count, and bed type.
 4. 💾 **Download**: Once confirmed, save your "Imperial Artifact" (Ticket) to your device.
-5. 📊 **Manage**: Track all your past and upcoming stays in "My Registry".
+5. 📊 **Manage**: Track all your past and upcoming stays in "My Bookings".
 
 ## 📞 Support
 For technical issues or inquiries regarding this project, please refer to the [INSTRUCTIONS.md](INSTRUCTIONS.md) file for detailed technical documentation.
