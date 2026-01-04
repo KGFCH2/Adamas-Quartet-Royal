@@ -85,7 +85,7 @@ const ROOMS: ExtendedRoom[] = [
     imageGallery: [
       'https://images.unsplash.com/photo-1544124499-58912cbddaad?q=80&w=2574&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1593010219803-02f5e3d744b1?q=80&w=2574&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=2580&auto=format&fit=crop'
+      'https://chillalogetaways.com/wp-content/uploads/2023/01/room2.jpg'
     ],
     amenities: ['Tea Garden View', 'Ayurvedic Spa', 'Private Balcony', 'Yoga Hall'],
     featured: false,
@@ -98,11 +98,12 @@ const ROOMS: ExtendedRoom[] = [
     description: 'A tranquility-first suite in Rishikesh, merging the sound of the holy river with modern wellness amenities.',
     pricePerNight: 8499,
     capacity: 2,
-    imageUrl: 'https://images.unsplash.com/photo-1564501025351-0671c5362b77?q=80&w=2670&auto=format&fit=crop',
+    imageUrl: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bc/8f/03/summit-by-the-ganges.jpg?w=2000&h=-1&s=1',
     imageGallery: [
-      'https://images.unsplash.com/photo-1564501025351-0671c5362b77?q=80&w=2670&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1571011234237-4523366d74d8?q=80&w=2670&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2670&auto=format&fit=crop'
+      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/bc/8f/03/summit-by-the-ganges.jpg?w=2000&h=-1&s=1',
+      'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/1c/47/19/executive-room.jpg?w=2000&h=-1&s=1',
+      'https://assets.simplotel.com/simplotel/image/upload/x_0,y_491,w_4697,h_2642,r_0,c_crop/q_80,w_2000,dpr_1,f_auto,fl_progressive,c_limit/summit-by-the-ganges-beach-resort-spa-rishikesh/Deluxe_Ganges_View_Room_with_Private_Balcony4_09bc9f83',
+      'https://cdn.audleytravel.com/700/500/79/363562-hotel-ganges-view-varanasi.jpg'
     ],
     amenities: ['Yoga Deck', 'Organic Cafe', 'Ganges View', 'Heated Pool'],
     featured: true,
@@ -115,11 +116,11 @@ const ROOMS: ExtendedRoom[] = [
     description: 'A snow-clad luxury sanctuary in Shimla. Experience warmth and majesty in our cedar-inspired suites.',
     pricePerNight: 15999,
     capacity: 3,
-    imageUrl: 'https://images.unsplash.com/photo-1551882547-ff43c63ef53e?q=80&w=2670&auto=format&fit=crop',
+    imageUrl: 'https://pix10.agoda.net/hotelImages/275959/0/ffab98ff4b75c269c188191dda03ec38.jpg?ce=3&s=2000x',
     imageGallery: [
-      'https://images.unsplash.com/photo-1551882547-ff43c63ef53e?q=80&w=2670&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?q=80&w=2670&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1445019980597-93fa8acb246c?q=80&w=2674&auto=format&fit=crop'
+      'https://pix10.agoda.net/hotelImages/275959/0/ffab98ff4b75c269c188191dda03ec38.jpg?ce=3&s=2000x',
+      'https://altlifestays.com/images/uploads/427/2444_665super_deluxe_room__6_.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8MZk0NHTcSJVO0UciyLhuDqsiAH4Kpq6dQ&s'
     ],
     amenities: ['Fireplace', 'Snow Lounge', 'Guided Treks', 'Premium Bedding'],
     featured: true,
